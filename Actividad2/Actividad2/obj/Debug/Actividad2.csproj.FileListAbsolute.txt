@@ -1,0 +1,14 @@
+C:\Users\pacoh\OneDrive\Documentos\progracion 3\Actividad2\Actividad2\obj\Debug\Actividad2.csproj.AssemblyReference.cache
+C:\Users\pacoh\OneDrive\Documentos\progracion 3\Actividad2\Actividad2\obj\Debug\Actividad2.Form1.resources
+C:\Users\pacoh\OneDrive\Documentos\progracion 3\Actividad2\Actividad2\obj\Debug\Actividad2.Properties.Resources.resources
+C:\Users\pacoh\OneDrive\Documentos\progracion 3\Actividad2\Actividad2\obj\Debug\Actividad2.Saludo.resources
+C:\Users\pacoh\OneDrive\Documentos\progracion 3\Actividad2\Actividad2\obj\Debug\Actividad2.csproj.GenerateResource.cache
+C:\Users\pacoh\OneDrive\Documentos\progracion 3\Actividad2\Actividad2\obj\Debug\Actividad2.csproj.CoreCompileInputs.cache
+C:\Users\pacoh\OneDrive\Documentos\progracion 3\Actividad2\Actividad2\bin\Debug\Actividad2.exe.config
+C:\Users\pacoh\OneDrive\Documentos\progracion 3\Actividad2\Actividad2\bin\Debug\Actividad2.exe
+C:\Users\pacoh\OneDrive\Documentos\progracion 3\Actividad2\Actividad2\bin\Debug\Actividad2.pdb
+C:\Users\pacoh\OneDrive\Documentos\progracion 3\Actividad2\Actividad2\obj\Debug\Actividad2.exe
+C:\Users\pacoh\OneDrive\Documentos\progracion 3\Actividad2\Actividad2\obj\Debug\Actividad2.pdb
+C:\Users\pacoh\OneDrive\Documentos\progracion 3\Actividad2\Actividad2\obj\Debug\Actividad2.Informacion_personal.resources
+C:\Users\pacoh\OneDrive\Documentos\progracion 3\Actividad2\Actividad2\obj\Debug\Actividad2.Operaciones_Básicas.resources
+C:\Users\pacoh\OneDrive\Documentos\progracion 3\Actividad2\Actividad2\obj\Debug\Actividad2.Acceso.resources
