@@ -1,0 +1,15 @@
+C:\Users\pacoh\OneDrive\Documentos\progracion 3\Actividad_3_CRUD\Actividad_3_CRUD\bin\Debug\Actividad_3_CRUD.exe.config
+C:\Users\pacoh\OneDrive\Documentos\progracion 3\Actividad_3_CRUD\Actividad_3_CRUD\bin\Debug\Actividad_3_CRUD.exe
+C:\Users\pacoh\OneDrive\Documentos\progracion 3\Actividad_3_CRUD\Actividad_3_CRUD\bin\Debug\Actividad_3_CRUD.pdb
+C:\Users\pacoh\OneDrive\Documentos\progracion 3\Actividad_3_CRUD\Actividad_3_CRUD\obj\Debug\Actividad_3_CRUD.csproj.AssemblyReference.cache
+C:\Users\pacoh\OneDrive\Documentos\progracion 3\Actividad_3_CRUD\Actividad_3_CRUD\obj\Debug\Actividad_3_CRUD.Form1.resources
+C:\Users\pacoh\OneDrive\Documentos\progracion 3\Actividad_3_CRUD\Actividad_3_CRUD\obj\Debug\Actividad_3_CRUD.Properties.Resources.resources
+C:\Users\pacoh\OneDrive\Documentos\progracion 3\Actividad_3_CRUD\Actividad_3_CRUD\obj\Debug\Actividad_3_CRUD.csproj.GenerateResource.cache
+C:\Users\pacoh\OneDrive\Documentos\progracion 3\Actividad_3_CRUD\Actividad_3_CRUD\obj\Debug\Actividad_3_CRUD.csproj.CoreCompileInputs.cache
+C:\Users\pacoh\OneDrive\Documentos\progracion 3\Actividad_3_CRUD\Actividad_3_CRUD\obj\Debug\Actividad_3_CRUD.exe
+C:\Users\pacoh\OneDrive\Documentos\progracion 3\Actividad_3_CRUD\Actividad_3_CRUD\obj\Debug\Actividad_3_CRUD.pdb
+C:\Users\pacoh\OneDrive\Documentos\progracion 3\Actividad_3_CRUD\Actividad_3_CRUD\obj\Debug\Actividad_3_CRUD.REGISTRO_CLIENTES.resources
+C:\Users\pacoh\OneDrive\Documentos\progracion 3\Actividad_3_CRUD\Actividad_3_CRUD\obj\Debug\Actividad_3_CRUD.Registro_Provedores.resources
+C:\Users\pacoh\OneDrive\Documentos\progracion 3\Actividad_3_CRUD\Actividad_3_CRUD\obj\Debug\Actividad_3_CRUD.Registro_Producto.resources
+C:\Users\pacoh\OneDrive\Documentos\progracion 3\Actividad_3_CRUD\Actividad_3_CRUD\obj\Debug\Actividad_3_CRUD.compra.resources
+C:\Users\pacoh\OneDrive\Documentos\progracion 3\Actividad_3_CRUD\Actividad_3_CRUD\obj\Debug\Actividad_3_CRUD.Damas.resources
